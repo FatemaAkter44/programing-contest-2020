@@ -1,0 +1,5 @@
+print("Contestant: Faema Akter")
+print('Major: CIS')
+print('Address: 201 oceanpark way, apt 3i. Brooklyn, NY, 11218')
+print('phone: (347) 421-9545')
+print('Email: fakter1992@gmail.com')
